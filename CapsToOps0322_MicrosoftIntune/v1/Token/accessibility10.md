@@ -1,0 +1,29 @@
+---
+translation.priority.ht: 
+  - ar-sa
+  - cs-cz
+  - da-dk
+  - de-de
+  - el-gr
+  - es-es
+  - fi-fi
+  - fr-fr
+  - he-il
+  - hu-hu
+  - it-it
+  - ja-jp
+  - ko-kr
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-br
+  - pt-pt
+  - ro-ro
+  - ru-ru
+  - sv-se
+  - tr-tr
+  - zh-cn
+  - zh-hk
+  - zh-tw
+---
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Sollten Sie Sehstörungen oder Probleme beim Umgang mit gedrucktem Material haben, können Sie die Dokumentation zu zahlreichen Microsoft-Produkten in einem für Sie geeigneteren Format beziehen. Einen Index der in einem anderen Format erhältlichen Produktdokumentation finden Sie unter <externalLink xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5"><linkText>Microsoft Accessibility (Microsoft-Barrierefreiheit)</linkText><linkUri>http://go.microsoft.com/fwlink/?LinkId=8431</linkUri></externalLink>. Außerdem können Sie weitere Microsoft-Publikationen von Learning Ally (ehem. Recording for the Blind &amp; Dyslexic, Inc) beziehen. Learning Ally vertreibt diese Dokumente an registrierte, berechtigte Mitglieder seines Verteilerdiensts. Wenn Sie weitere Informationen zur Verfügbarkeit der Microsoft-Produktdokumentation und Bücher von Microsoft Press wünschen, wenden Sie sich an: </Token>

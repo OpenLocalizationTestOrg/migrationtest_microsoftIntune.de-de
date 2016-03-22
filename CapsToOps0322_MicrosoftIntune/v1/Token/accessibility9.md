@@ -1,0 +1,29 @@
+---
+translation.priority.ht: 
+  - ar-sa
+  - cs-cz
+  - da-dk
+  - de-de
+  - el-gr
+  - es-es
+  - fi-fi
+  - fr-fr
+  - he-il
+  - hu-hu
+  - it-it
+  - ja-jp
+  - ko-kr
+  - nb-no
+  - nl-nl
+  - pl-pl
+  - pt-br
+  - pt-pt
+  - ro-ro
+  - ru-ru
+  - sv-se
+  - tr-tr
+  - zh-cn
+  - zh-hk
+  - zh-tw
+---
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Es stehen zahlreiche Produkte zur Verfügung, die Personen mit Behinderungen die Arbeit mit dem Computer erleichtern.  Einen Katalog solcher Produkte, die unter Windows verwendet werden können, finden Sie unter <externalLink xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5"><linkText>Microsoft Accessibility (Microsoft-Barrierefreiheit)</linkText><linkUri>http://go.microsoft.com/fwlink/?LinkId=8431</linkUri></externalLink>. Wenn Sie unterstützende Technologien verwenden, wenden Sie sich vor einem Software- oder Hardwareupgrade an den Händler für unterstützende Technologien, um mögliche Kompatibilitätsprobleme zu klären.</Token>
