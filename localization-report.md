@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 935
 [ Handoff Failed Files ](#handoff-failed-list)| 68
-[ Handoff Success Files ](#handoff-success-list)| 367
+[ Handoff Success Files ](#handoff-success-list)| 366
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 500
+[ Ignored Files ](#ignored-list)| 501
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
@@ -88,7 +88,6 @@
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [CapsToOps0322_MicrosoftIntune\test.md](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/92b7d5276135288eef18131333a5b7a0a3b95fbb/CapsToOps0322_MicrosoftIntune/test.md) | HandedOffSuccess | [Details](#14c5c6cdd8bed3c849e10fc8ff1ba91571f4e06f1)
  [CapsToOps0322_MicrosoftIntune\v1\Image\30-day-trial-walkthrus\30day-cfg-pol-11-start-mg-mobl-dev.png](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/f50d822017984a44a8bd9c5701f72388bf492384/CapsToOps0322_MicrosoftIntune/v1/Image/30-day-trial-walkthrus/30day-cfg-pol-11-start-mg-mobl-dev.png) | HandedOffSuccess | [Details](#64f06d45481657e65ee924d286623dc83a514f402)
  [CapsToOps0322_MicrosoftIntune\v1\Image\30-day-trial-walkthrus\30day-cfg-pol-12-link-set-mdm.png](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/f50d822017984a44a8bd9c5701f72388bf492384/CapsToOps0322_MicrosoftIntune/v1/Image/30-day-trial-walkthrus/30day-cfg-pol-12-link-set-mdm.png) | HandedOffSuccess | [Details](#73ef645cbc717eb389266a0e21f6ac7bdb749a6f3)
  [CapsToOps0322_MicrosoftIntune\v1\Image\30-day-trial-walkthrus\30day-cfg-pol-13-enbl-ios-plat.png](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/f50d822017984a44a8bd9c5701f72388bf492384/CapsToOps0322_MicrosoftIntune/v1/Image/30-day-trial-walkthrus/30day-cfg-pol-13-enbl-ios-plat.png) | HandedOffSuccess | [Details](#3182556c7d25e82331869aeff5e9e7449fcc36834)
@@ -470,6 +469,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [.localization-config](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/92b7d5276135288eef18131333a5b7a0a3b95fbb/.localization-config) | Ignored | [Details](#36a6ff5d8874f68d92ae3bb6e5f772c46f19b6d20)
+ [CapsToOps0322_MicrosoftIntune\test.md](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/92b7d5276135288eef18131333a5b7a0a3b95fbb/CapsToOps0322_MicrosoftIntune/test.md) | Ignored | [Details](#09e47a7fe5fc2770c0547130a3743204c6dcf3f11)
  [CapsToOps0322_MicrosoftIntune\v1\Image\30-day-trial-walkthrus\30day-cfg-pol-45-cportal-installed.png](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/92b7d5276135288eef18131333a5b7a0a3b95fbb/CapsToOps0322_MicrosoftIntune/v1/Image/30-day-trial-walkthrus/30day-cfg-pol-45-cportal-installed.png) | Ignored | [Details](#ffa1c8a0402c29fa672f36abe871ce691318255636)
  [CapsToOps0322_MicrosoftIntune\v1\Image\30-day-trial-walkthrus\30day-cfg-pol-46-cportal-signin.png](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/92b7d5276135288eef18131333a5b7a0a3b95fbb/CapsToOps0322_MicrosoftIntune/v1/Image/30-day-trial-walkthrus/30day-cfg-pol-46-cportal-signin.png) | Ignored | [Details](#7196b2358287e632baa768f60014b78ca7810d2e37)
  [CapsToOps0322_MicrosoftIntune\v1\Image\30-day-trial-walkthrus\30day-cfg-pol-47-tap-enroll.png](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/92b7d5276135288eef18131333a5b7a0a3b95fbb/CapsToOps0322_MicrosoftIntune/v1/Image/30-day-trial-walkthrus/30day-cfg-pol-47-tap-enroll.png) | Ignored | [Details](#2d2325a283bcf27b7790686919e784112cf6284e38)
@@ -983,12 +983,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='14c5c6cdd8bed3c849e10fc8ff1ba91571f4e06f1'></a> Source: [CapsToOps0322_MicrosoftIntune\test.md](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/92b7d5276135288eef18131333a5b7a0a3b95fbb/CapsToOps0322_MicrosoftIntune/test.md)
-* Status: HandedOffSuccess
+##### <a name='09e47a7fe5fc2770c0547130a3743204c6dcf3f11'></a> Source: [CapsToOps0322_MicrosoftIntune\test.md](https://github.com/OpenLocalizationTestOrg/migrationtest_microsoftIntune/blob/92b7d5276135288eef18131333a5b7a0a3b95fbb/CapsToOps0322_MicrosoftIntune/test.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [test.e6091125b0c84ff8e511770de6fa385d96fb1a75.de-de.xlf](https://github.com/OpenLocalizationTestOrg/migrationtest_handoff/blob/9220a9c222744f15ba8a206a74d6cbbc2d2b460f/ol-handoff/OpenLocalizationTestOrg/migrationtest_microsoftIntune.de-de/master/test.e6091125b0c84ff8e511770de6fa385d96fb1a75.de-de.xlf)
-* Handoff Datetime: 2016-03-22 09:44:35
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
