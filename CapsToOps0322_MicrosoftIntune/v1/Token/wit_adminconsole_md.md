@@ -26,7 +26,4 @@ translation.priority.ht:
   - zh-hk
   - zh-tw
 ---
-Microsoft Intune-Administratorkonsole
-
-
-
+Microsoft Intune-Verwaltungskonsole

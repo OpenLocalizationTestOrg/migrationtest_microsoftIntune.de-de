@@ -23,4 +23,4 @@ translation.priority.ht:
   - zh-hk
   - zh-tw
 ---
-Endpoint Protection
+Endpoint Protection

@@ -30,6 +30,3 @@ translation.priority.ht:
   - zh-tw
 ---
 Windows 7
-
-
-

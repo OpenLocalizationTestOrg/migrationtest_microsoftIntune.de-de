@@ -34,11 +34,11 @@ translation.priority.ht:
     <developerConceptualDocument xsi:schemaLocation="http://ddue.schemas.microsoft.com/authoring/2003/5 http://dduestorage.blob.core.windows.net/ddueschema/developer.xsd" xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <introduction>
         <para>
-          <caps:sentence sentenceid="432f481c6a018d7d72a1778894c0cb0a" id="tgt1" class="tgtSentence">Wenn Ihr Unternehmen <token>wit_firstref</token> zum Verwalten von Geräten einsetzt, können Sie zum Schutz von Unternehmensdaten und -ressourcen beitragen, indem Sie Ihr Smartphone oder Tablet in Microsoft Intune registrieren.</caps:sentence>
+          <caps:sentence sentenceid="db72f7c059e8ad76aeed0c15ee0eac8c" id="tgt1" class="tgtSentence">Wenn Ihr Unternehmen <token>wit_firstref</token> zum Verwalten von Geräten einsetzt, können Sie zum Schutz von Unternehmensdaten und -ressourcen beitragen, indem Sie Ihr Smartphone oder Tablet in Microsoft Intune registrieren.</caps:sentence>
           <caps:sentence sentenceid="abac7b380a93e32d6be7adf63a70713e" id="tgt2" class="tgtSentence"> Nach der Registrierung können Sie Ihr Mobiltelefon oder Tablet nutzen, um auf das Unternehmensnetzwerk, E-Mail und andere geschäftliche Dateien zuzugreifen sowie um Unternehmens-Apps abzurufen.</caps:sentence>
           <caps:sentence sentenceid="ed5bae15ec87c32cc2a89f0b733b414c" id="tgt3" class="tgtSentence"> Die IT-Abteilung ist anschließend in der Lage, eingeschränkte Aspekte Ihres Mobilgeräts zu verwalten, um für Schutz zu sorgen.</caps:sentence>
           <caps:sentence sentenceid="349ad38156f0fff1fe2f5deb11bcabfd" id="tgt4" class="tgtSentence"> Sie behalten den Zugriff auf persönliche Apps und Daten, und Ihre privaten Dinge bleiben nach wie vor nur für Sie sichtbar.</caps:sentence>
-          <caps:sentence sentenceid="f2b1c75a179dcf4c2f34f4a7b9c11886" id="tgt5" class="tgtSentence"> Weitere Informationen finden Sie unter <externalLink><linkText>Für die IT nach der Geräteregistrierung in Intune einsehbare und nicht einsehbare Elemente</linkText><linkUri>https://technet.microsoft.com/library/jj738616(WIT.1).aspx</linkUri></externalLink>.</caps:sentence>
+          <caps:sentence sentenceid="180f15cfd9be8d4afd7c4ed12da8087f" id="tgt5" class="tgtSentence"> Weitere Informationen finden Sie unter <externalLink><linkText>Für die IT nach der Geräteregistrierung in Intune einsehbare und nicht einsehbare Elemente</linkText><linkUri>https://technet.microsoft.com/library/jj738616(WIT.1).aspx</linkUri></externalLink>.</caps:sentence>
         </para>
         <para>
           <caps:sentence sentenceid="83f5c2932ca49c0cf70926ff42419945" id="tgt6" class="tgtSentence">Verwenden Sie zum Registrieren den Link, der dem Gerät entspricht, das Sie verwenden:</caps:sentence>
@@ -46,22 +46,22 @@ translation.priority.ht:
         <list class="bullet">
           <listItem>
             <para>
-              <caps:sentence sentenceid="c651fcf54e9e70abf5d8f4973332c1f2" id="tgt7" class="tgtSentence">Windows: <externalLink><linkText>Registrieren Ihres Windows-Geräts in Intune</linkText><linkUri>https://technet.microsoft.com/library/mt427782.aspx</linkUri></externalLink></caps:sentence>
+              <caps:sentence sentenceid="7530ec6a030bc66c346a35ae9c931a42" id="tgt7" class="tgtSentence">Windows: <externalLink><linkText>Registrieren Ihres Windows-Geräts in Intune</linkText><linkUri>https://technet.microsoft.com/library/mt427782.aspx</linkUri></externalLink></caps:sentence>
             </para>
           </listItem>
           <listItem>
             <para>
-              <caps:sentence sentenceid="49d54cd59f640909a46661871b9696c2" id="tgt8" class="tgtSentence">Android: <link xlink:href="465763db-b68d-4392-a5a4-732b5b875c2b#BKMK_andr_enroll_devc"> Enroll your device in Intune</link></caps:sentence>
+              <caps:sentence sentenceid="10a8b757b0f5bc4ef971b05d498ce617" id="tgt8" class="tgtSentence">Android: <link xlink:href="465763db-b68d-4392-a5a4-732b5b875c2b#BKMK_andr_enroll_devc"> Enroll your device in Intune</link></caps:sentence>
             </para>
           </listItem>
           <listItem>
             <para>
-              <caps:sentence sentenceid="043a17c549abfbdea17b591d1eadcade" id="tgt9" class="tgtSentence">iOS: <externalLink><linkText>Registrieren Ihres iOS-Geräts in Intune</linkText><linkUri>https://technet.microsoft.com/library/mt598622.aspx#BKMK_enroll_ios_device</linkUri></externalLink></caps:sentence>
+              <caps:sentence sentenceid="2c4b0d9ae2bf4f494ab3f991b631e4e2" id="tgt9" class="tgtSentence">iOS: <externalLink><linkText>Registrieren Ihres iOS-Geräts in Intune</linkText><linkUri>https://technet.microsoft.com/library/mt598622.aspx#BKMK_enroll_ios_device</linkUri></externalLink></caps:sentence>
             </para>
           </listItem>
           <listItem>
             <para>
-              <caps:sentence sentenceid="f05a7e785f03e6feea86c0675d886b67" id="tgt10" class="tgtSentence">Mac OS X: <externalLink><linkText>Registrieren Ihres Mac OS X-Geräts in Intune</linkText><linkUri>https://technet.microsoft.com/library/mt598622.aspx#BKMK_ios_enroll_macosx_dev</linkUri></externalLink></caps:sentence>
+              <caps:sentence sentenceid="c753d5225f7f4ca99fd3ce7b4d3f03a2" id="tgt10" class="tgtSentence">Mac OS X: <externalLink><linkText>Registrieren Ihres Mac OS X-Geräts in Intune</linkText><linkUri>https://technet.microsoft.com/library/mt598622.aspx#BKMK_ios_enroll_macosx_dev</linkUri></externalLink></caps:sentence>
             </para>
           </listItem>
         </list>

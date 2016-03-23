@@ -23,6 +23,3 @@ translation.priority.ht:
   - zh-tw
 ---
 Windows RT 8.1
-
-
-

@@ -26,7 +26,4 @@ translation.priority.ht:
   - zh-hk
   - zh-tw
 ---
-System Center 2012 Configuration Manager
-
-
-
+System Center 2012 Configuration Manager

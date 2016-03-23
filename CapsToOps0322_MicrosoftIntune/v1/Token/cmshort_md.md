@@ -27,6 +27,3 @@ translation.priority.ht:
   - zh-tw
 ---
 Configuration Manager
-
-
-
