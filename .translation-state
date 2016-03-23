@@ -17716,7 +17716,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -17727,7 +17727,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -17872,7 +17872,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -17883,7 +17883,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -17909,7 +17909,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -17920,7 +17920,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -17946,7 +17946,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "ht",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -17957,7 +17957,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -18052,7 +18052,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -18063,7 +18063,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -18243,7 +18243,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "ht",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -18254,7 +18254,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -18309,7 +18309,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "ht",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -18320,7 +18320,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -18375,7 +18375,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -18386,7 +18386,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -18680,7 +18680,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -18691,7 +18691,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -18722,7 +18722,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -18733,7 +18733,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -18759,7 +18759,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -18770,7 +18770,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19148,7 +19148,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19159,7 +19159,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19303,7 +19303,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "ht",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19314,7 +19314,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19372,7 +19372,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "ht",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19383,7 +19383,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19413,7 +19413,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19424,7 +19424,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19452,7 +19452,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19463,7 +19463,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19491,7 +19491,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19502,7 +19502,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19531,7 +19531,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19542,7 +19542,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19571,7 +19571,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19582,7 +19582,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19612,7 +19612,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19623,7 +19623,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19649,7 +19649,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19660,7 +19660,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19721,7 +19721,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19732,7 +19732,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19761,7 +19761,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19772,7 +19772,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19802,7 +19802,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19813,7 +19813,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19879,7 +19879,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19890,7 +19890,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19916,7 +19916,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19927,7 +19927,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19953,7 +19953,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -19964,7 +19964,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -19997,7 +19997,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20008,7 +20008,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20039,7 +20039,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20050,7 +20050,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20079,7 +20079,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20090,7 +20090,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20116,7 +20116,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20127,7 +20127,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20156,7 +20156,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20167,7 +20167,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20197,7 +20197,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20208,7 +20208,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20236,7 +20236,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20247,7 +20247,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20308,7 +20308,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20319,7 +20319,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20348,7 +20348,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20359,7 +20359,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20388,7 +20388,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20399,7 +20399,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20433,7 +20433,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20444,7 +20444,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20472,7 +20472,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20483,7 +20483,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20511,7 +20511,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20522,7 +20522,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20548,7 +20548,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20559,7 +20559,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20591,7 +20591,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20602,7 +20602,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20633,7 +20633,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20644,7 +20644,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20674,7 +20674,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20685,7 +20685,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20716,7 +20716,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20727,7 +20727,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20788,7 +20788,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20799,7 +20799,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20825,7 +20825,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20836,7 +20836,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20862,7 +20862,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20873,7 +20873,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20899,7 +20899,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20910,7 +20910,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20938,7 +20938,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20949,7 +20949,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -20978,7 +20978,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -20989,7 +20989,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -21017,7 +21017,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -21028,7 +21028,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -21058,7 +21058,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -21069,7 +21069,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -21098,7 +21098,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -21109,7 +21109,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -21138,7 +21138,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -21149,7 +21149,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -21246,7 +21246,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -21257,7 +21257,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -21377,7 +21377,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -21388,7 +21388,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -21446,7 +21446,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -21457,7 +21457,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -21599,7 +21599,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -21610,7 +21610,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -22122,7 +22122,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -22133,7 +22133,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -22217,7 +22217,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -22228,7 +22228,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -22721,7 +22721,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "ht",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -22732,7 +22732,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -22793,7 +22793,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "ht",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -22804,7 +22804,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -23151,7 +23151,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -23162,7 +23162,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -23277,7 +23277,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3773386Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -23288,7 +23288,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -23372,7 +23372,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "ht",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -23383,7 +23383,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -23438,7 +23438,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -23449,7 +23449,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -23475,7 +23475,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -23486,7 +23486,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -23599,7 +23599,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-23T05:43:08.3929587Z",
+      "HandoffDateTime": "2016-03-23T05:44:00.5111141Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -23610,7 +23610,7 @@
         "stack_trace": "   at System.IO.PathHelper.GetFullPathName()\r\n   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)\r\n   at System.IO.Path.GetFullPathInternal(String path)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 396",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
